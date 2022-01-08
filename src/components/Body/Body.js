@@ -7,7 +7,7 @@ import "./Body.css";
 const Body = ({ children }) => {
   const navigate = useNavigate();
   const backHome = () => {
-    navigate("/");
+    navigate("/school");
   };
   return (
     <div className="body_div">
