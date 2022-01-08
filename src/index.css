@@ -1,13 +1,77 @@
-body {
+* {
+  font-family: "verdana";
+  box-sizing: content-box;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+}
+html {
+  scroll-behavior: smooth;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+main {
+  min-height: 80vh;
+}
+h1 {
+  font-size: 3.5rem;
+}
+h2 {
+  font-size: 2.5rem;
+}
+h3 {
+  font-size: 2rem;
+}
+h4 {
+  font-size: 1.5rem;
+}
+/* HOME */
+.home_div {
+  position: relative;
+  top: 7rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.title {
+  position: absolute;
+  text-align: center;
+}
+
+.title h1 {
+  width: max-content;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+}
+
+.home_logo {
+  width: 60%;
+  position: relative;
+  top: 10px;
+}
+.black {
+  position: absolute;
+  width: 30%;
+  transform: translate(-115%, 50%);
+}
+
+.white {
+  position: absolute;
+  width: 30%;
+  transform: translate(115%, 50%);
+}
+
+.bg_img {
+  width: 100%;
+  height: 90vh;
+}
+/* ANTHEM */
+.anthem_screen {
+  display: flex;
+  justify-content: center;
+}
+
+/* GALLERY */
+.gallery_screen {
+  display: flex;
+  justify-content: center;
 }

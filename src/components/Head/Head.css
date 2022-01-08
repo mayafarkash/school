@@ -1,0 +1,32 @@
+.head_div {
+  position: fixed;
+  width: 100%;
+  background-image: linear-gradient(
+    90deg,
+    rgb(155, 178, 241),
+    rgba(53, 88, 204, 0.685),
+    rgb(155, 178, 241),
+    rgba(53, 88, 204, 0.685)
+  );
+
+  padding-bottom: 20px;
+  z-index: 2;
+}
+
+.head_Buttons {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 1rem;
+}
+
+.head_Buttons a {
+  font-size: 2rem;
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  transition: all 275ms ease;
+  border-radius: 3px;
+}
+.head_Buttons a:hover {
+  box-shadow: 0px 0 15px 1px black;
+}
