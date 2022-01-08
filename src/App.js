@@ -11,7 +11,7 @@ function App() {
       <Head />
       <main>
         <Routes>
-          <Route path="/" element={<Home />} axact />
+          <Route path="/school" element={<Home />} axact />
           <Route path="/schools_anthem" element={<AnthemScreen />} />
           <Route path="/schools_gallery" element={<GalleryScreen />} />
         </Routes>
