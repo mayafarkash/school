@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/schoool/static/css/main.824cb7f7.css",
+    "main.js": "/schoool/static/js/main.06bffa49.js",
+    "static/js/787.deffc097.chunk.js": "/schoool/static/js/787.deffc097.chunk.js",
+    "static/media/13.jpeg": "/schoool/static/media/13.92e3b0701f00111af149.jpeg",
+    "static/media/6.jpeg": "/schoool/static/media/6.71c46d425afa0c4783fc.jpeg",
+    "static/media/12.jpeg": "/schoool/static/media/12.cee515c155b8bde3645e.jpeg",
+    "static/media/8.jpeg": "/schoool/static/media/8.69a1c906ec677d8a7ac9.jpeg",
+    "static/media/7.jpeg": "/schoool/static/media/7.0ce5e6d0154e9419bf2d.jpeg",
+    "static/media/10.jpeg": "/schoool/static/media/10.22112b4c936af816a6ca.jpeg",
+    "static/media/9.jpeg": "/schoool/static/media/9.d3ad3aea56eaabedeb2d.jpeg",
+    "static/media/3.jpeg": "/schoool/static/media/3.4a7dfe41691ccb3a19b0.jpeg",
+    "static/media/11.jpeg": "/schoool/static/media/11.dcffd8aa2b8c7ccc2890.jpeg",
+    "static/media/4.jpeg": "/schoool/static/media/4.0f94d3a92e29af7b9c88.jpeg",
+    "static/media/5.jpeg": "/schoool/static/media/5.cf4d8e1309254d176a35.jpeg",
+    "static/media/anthem.png": "/schoool/static/media/anthem.3c27637ac7b290340793.png",
+    "static/media/1.jpeg": "/schoool/static/media/1.85ebb3d1da5b67648526.jpeg",
+    "static/media/2.jpeg": "/schoool/static/media/2.7ebbb8707b64c781d201.jpeg",
+    "static/media/school_name.png": "/schoool/static/media/school_name.a3dc3263ae078dd9bd04.png",
+    "static/media/white_kid.jpeg": "/schoool/static/media/white_kid.5d25233239a500469d7a.jpeg",
+    "static/media/kid_piano.jpeg": "/schoool/static/media/kid_piano.9b84ca37dd84c03d17fc.jpeg",
+    "static/media/black_kid.jpeg": "/schoool/static/media/black_kid.ead8a5b336f5139a48c1.jpeg",
+    "static/media/pencilsBg.jpeg": "/schoool/static/media/pencilsBg.6fbee2d449f6a8d2d681.jpeg",
+    "static/media/0.jpeg": "/schoool/static/media/0.b0ebe77531f3f2a012e1.jpeg",
+    "index.html": "/schoool/index.html",
+    "main.824cb7f7.css.map": "/schoool/static/css/main.824cb7f7.css.map",
+    "main.06bffa49.js.map": "/schoool/static/js/main.06bffa49.js.map",
+    "787.deffc097.chunk.js.map": "/schoool/static/js/787.deffc097.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.824cb7f7.css",
+    "static/js/main.06bffa49.js"
+  ]
+}
