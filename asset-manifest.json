@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/school/static/css/main.5d5ccdcc.css",
-    "main.js": "/school/static/js/main.78ecbfc3.js",
+    "main.css": "/school/static/css/main.751d8bd8.css",
+    "main.js": "/school/static/js/main.446bc981.js",
     "static/js/787.deffc097.chunk.js": "/school/static/js/787.deffc097.chunk.js",
     "static/media/13.jpeg": "/school/static/media/13.92e3b0701f00111af149.jpeg",
     "static/media/6.jpeg": "/school/static/media/6.71c46d425afa0c4783fc.jpeg",
     "static/media/12.jpeg": "/school/static/media/12.cee515c155b8bde3645e.jpeg",
     "static/media/8.jpeg": "/school/static/media/8.69a1c906ec677d8a7ac9.jpeg",
     "static/media/7.jpeg": "/school/static/media/7.0ce5e6d0154e9419bf2d.jpeg",
+    "static/media/schedule.jpeg": "/school/static/media/schedule.4814fc01a32f0e8a2d6b.jpeg",
     "static/media/10.jpeg": "/school/static/media/10.22112b4c936af816a6ca.jpeg",
     "static/media/9.jpeg": "/school/static/media/9.d3ad3aea56eaabedeb2d.jpeg",
     "static/media/3.jpeg": "/school/static/media/3.4a7dfe41691ccb3a19b0.jpeg",
     "static/media/11.jpeg": "/school/static/media/11.dcffd8aa2b8c7ccc2890.jpeg",
     "static/media/4.jpeg": "/school/static/media/4.0f94d3a92e29af7b9c88.jpeg",
+    "static/media/vision.jpeg": "/school/static/media/vision.ac236375da9b2c5d0b78.jpeg",
     "static/media/5.jpeg": "/school/static/media/5.cf4d8e1309254d176a35.jpeg",
-    "static/media/anthem.png": "/school/static/media/anthem.3c27637ac7b290340793.png",
+    "static/media/anthem.jpeg": "/school/static/media/anthem.8a18203a46d625d3a2c4.jpeg",
     "static/media/1.jpeg": "/school/static/media/1.85ebb3d1da5b67648526.jpeg",
     "static/media/2.jpeg": "/school/static/media/2.7ebbb8707b64c781d201.jpeg",
     "static/media/school_name.png": "/school/static/media/school_name.a3dc3263ae078dd9bd04.png",
@@ -24,12 +26,12 @@
     "static/media/pencilsBg.jpeg": "/school/static/media/pencilsBg.6fbee2d449f6a8d2d681.jpeg",
     "static/media/0.jpeg": "/school/static/media/0.b0ebe77531f3f2a012e1.jpeg",
     "index.html": "/school/index.html",
-    "main.5d5ccdcc.css.map": "/school/static/css/main.5d5ccdcc.css.map",
-    "main.78ecbfc3.js.map": "/school/static/js/main.78ecbfc3.js.map",
+    "main.751d8bd8.css.map": "/school/static/css/main.751d8bd8.css.map",
+    "main.446bc981.js.map": "/school/static/js/main.446bc981.js.map",
     "787.deffc097.chunk.js.map": "/school/static/js/787.deffc097.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d5ccdcc.css",
-    "static/js/main.78ecbfc3.js"
+    "static/css/main.751d8bd8.css",
+    "static/js/main.446bc981.js"
   ]
 }
