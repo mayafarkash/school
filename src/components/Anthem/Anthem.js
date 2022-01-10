@@ -1,7 +1,7 @@
 import "./Anthem.css";
 import React from "react";
 import LocalizedStrings from "react-localization";
-import anthem from "../../img/anthem.png";
+import anthem from "../../img/anthem.jpeg";
 import piano from "../../img/kid_piano.jpeg";
 
 let strings = new LocalizedStrings({

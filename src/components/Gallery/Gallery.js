@@ -29,7 +29,7 @@ strings.setLanguage("he");
 
 const Gallery = () => {
   const [index, setIndex] = useState(0);
-  const imgs = [i0, i1, i2, i3, i4, i5, i6, i7, i8, i9, i10, i11, i13];
+  const imgs = [i2, i3, i4, i5, i6, i7, i8, i9, i10, i11, i13];
   const addIndex = () => {
     if (index + 1 === imgs.length) setIndex(0);
     else setIndex((prev) => prev + 1);

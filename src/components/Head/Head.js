@@ -23,10 +23,10 @@ const Head = () => {
   return (
     <div className="head_div">
       <div className="head_Buttons">
-        <a href="#schools_agenda">{strings.agenda}</a>
+        <Link to="/schools_agenda">{strings.agenda}</Link>
         <Link to="/schools_gallery">{strings.gallery}</Link>
         <Link to="/schools_anthem">{strings.anthem}</Link>
-        <a href="#schools_vision">{strings.vision}</a>
+        <Link to="/schools_vision">{strings.vision}</Link>
       </div>
     </div>
   );
